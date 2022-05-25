@@ -51,7 +51,6 @@ function calcularCuota(monto, interes, tiempo){
     var plazo1=tiempo
     var interes1=interes
 
-    var CI=  Math.pow(monto1 *(1 + interes1/100),plazo1)
 
     document.getElementById("rmonto").value = cuota1
 
