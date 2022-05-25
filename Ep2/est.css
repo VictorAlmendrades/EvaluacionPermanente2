@@ -1,0 +1,16 @@
+.fondo{
+    background-image: url(./img/fondo.jpg);
+    background-position: center;
+    background-size: cover;
+    opacity: 0.8;
+    height: 100%;
+}
+body{
+    color: white;
+}
+.lista-tabla{
+    color: white;
+}
+.nav-item{
+    color: white;
+}
